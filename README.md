@@ -8,6 +8,7 @@ MY LEETCODE JOURNEY
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0485-max-consecutive-ones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
