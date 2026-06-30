@@ -6,6 +6,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ MY LEETCODE JOURNEY
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
@@ -42,6 +44,7 @@ MY LEETCODE JOURNEY
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
 ## Binary Search
