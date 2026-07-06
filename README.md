@@ -22,6 +22,7 @@ MY LEETCODE JOURNEY
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -93,6 +95,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -156,4 +159,20 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
