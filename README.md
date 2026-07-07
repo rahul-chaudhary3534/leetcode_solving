@@ -67,6 +67,7 @@ MY LEETCODE JOURNEY
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
