@@ -32,6 +32,7 @@ MY LEETCODE JOURNEY
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ MY LEETCODE JOURNEY
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,18 +79,21 @@ MY LEETCODE JOURNEY
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +117,7 @@ MY LEETCODE JOURNEY
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -148,6 +155,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
