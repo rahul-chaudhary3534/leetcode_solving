@@ -73,6 +73,7 @@ MY LEETCODE JOURNEY
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,4 +193,8 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
