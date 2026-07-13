@@ -51,6 +51,7 @@ MY LEETCODE JOURNEY
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
