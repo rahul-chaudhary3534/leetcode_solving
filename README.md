@@ -27,6 +27,7 @@ MY LEETCODE JOURNEY
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -44,6 +45,7 @@ MY LEETCODE JOURNEY
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
@@ -64,6 +66,7 @@ MY LEETCODE JOURNEY
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
