@@ -37,6 +37,7 @@ MY LEETCODE JOURNEY
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ MY LEETCODE JOURNEY
 | [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ MY LEETCODE JOURNEY
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +93,7 @@ MY LEETCODE JOURNEY
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +141,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +219,5 @@ MY LEETCODE JOURNEY
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
