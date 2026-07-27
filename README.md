@@ -25,6 +25,7 @@ MY LEETCODE JOURNEY
 | [0485-max-consecutive-ones](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
