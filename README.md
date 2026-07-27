@@ -7,6 +7,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0001-two-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
@@ -103,6 +104,7 @@ MY LEETCODE JOURNEY
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
