@@ -214,6 +214,7 @@ MY LEETCODE JOURNEY
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Indexed Tree
@@ -248,4 +249,16 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
