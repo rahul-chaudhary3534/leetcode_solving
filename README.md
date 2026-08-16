@@ -52,6 +52,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
@@ -87,6 +88,7 @@ MY LEETCODE JOURNEY
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
@@ -242,6 +244,7 @@ MY LEETCODE JOURNEY
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
