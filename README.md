@@ -274,6 +274,7 @@ MY LEETCODE JOURNEY
 | [0110-balanced-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,8 +284,13 @@ MY LEETCODE JOURNEY
 | [0110-balanced-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
