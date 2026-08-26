@@ -273,6 +273,7 @@ MY LEETCODE JOURNEY
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -283,6 +284,7 @@ MY LEETCODE JOURNEY
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
@@ -292,5 +294,6 @@ MY LEETCODE JOURNEY
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
