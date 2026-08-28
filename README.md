@@ -300,4 +300,12 @@ MY LEETCODE JOURNEY
 | [0098-validate-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
