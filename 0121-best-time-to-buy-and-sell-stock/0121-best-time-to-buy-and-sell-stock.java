@@ -1,21 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int buy = prices[0]; 
-        int maxProfit = 0;
-
-        for (int price : prices) {
-            // If current price is lower than the buy price, update buy
-            if (price < buy) {
-                buy = price;
-            }
-
-            // Calculate profit
-            int profit = price - buy;
-            if (profit > maxProfit) {
-                maxProfit = profit;
-            }
+        int buy = prices[0];
+        int mp = 0;
+        for(int price : prices){
+            if(price<buy) buy = price;
+            int p = price - buy;
+            if(p>mp) mp = p;       
+            
         }
-
-        return maxProfit;
+        return mp;
+        
     }
 }
