@@ -121,6 +121,7 @@ MY LEETCODE JOURNEY
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
@@ -324,4 +325,8 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
