@@ -27,6 +27,7 @@ MY LEETCODE JOURNEY
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +121,7 @@ MY LEETCODE JOURNEY
 | [0035-search-insert-position](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
@@ -149,6 +151,7 @@ MY LEETCODE JOURNEY
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -179,6 +182,7 @@ MY LEETCODE JOURNEY
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
