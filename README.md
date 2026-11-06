@@ -35,6 +35,7 @@ MY LEETCODE JOURNEY
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +128,7 @@ MY LEETCODE JOURNEY
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -142,6 +144,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -333,4 +336,8 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
