@@ -36,6 +36,7 @@ MY LEETCODE JOURNEY
 | [0560-subarray-sum-equals-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1331-rank-transform-of-an-array) |
@@ -156,6 +157,7 @@ MY LEETCODE JOURNEY
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ MY LEETCODE JOURNEY
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -340,4 +343,12 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
