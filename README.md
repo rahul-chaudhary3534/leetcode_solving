@@ -26,6 +26,7 @@ MY LEETCODE JOURNEY
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
@@ -194,6 +195,7 @@ MY LEETCODE JOURNEY
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -274,6 +276,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
@@ -364,6 +367,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -371,5 +375,6 @@ MY LEETCODE JOURNEY
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
