@@ -183,6 +183,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -289,6 +290,7 @@ MY LEETCODE JOURNEY
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -307,6 +309,7 @@ MY LEETCODE JOURNEY
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -392,6 +395,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
