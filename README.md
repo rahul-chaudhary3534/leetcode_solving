@@ -6,6 +6,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0033-search-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ MY LEETCODE JOURNEY
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
@@ -111,6 +113,7 @@ MY LEETCODE JOURNEY
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
