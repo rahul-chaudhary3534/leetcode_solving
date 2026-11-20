@@ -117,6 +117,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
@@ -341,6 +342,7 @@ MY LEETCODE JOURNEY
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
