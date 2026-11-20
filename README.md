@@ -119,6 +119,7 @@ MY LEETCODE JOURNEY
 | [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
@@ -285,6 +286,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -392,4 +394,20 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0386-lexicographical-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
