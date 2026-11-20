@@ -6,6 +6,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
@@ -78,6 +79,7 @@ MY LEETCODE JOURNEY
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0011-container-with-most-water) |
 | [1537-get-the-maximum-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -113,6 +115,7 @@ MY LEETCODE JOURNEY
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
