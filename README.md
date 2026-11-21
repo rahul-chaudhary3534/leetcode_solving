@@ -105,6 +105,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
@@ -200,6 +201,7 @@ MY LEETCODE JOURNEY
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -295,6 +297,7 @@ MY LEETCODE JOURNEY
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
