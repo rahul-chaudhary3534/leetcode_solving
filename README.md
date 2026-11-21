@@ -15,6 +15,7 @@ MY LEETCODE JOURNEY
 | [0035-search-insert-position](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0045-jump-game-ii) |
 | [1537-get-the-maximum-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +189,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
