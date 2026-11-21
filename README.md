@@ -294,6 +294,7 @@ MY LEETCODE JOURNEY
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0038-count-and-say) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
