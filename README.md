@@ -401,6 +401,7 @@ MY LEETCODE JOURNEY
 | [0022-generate-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 ## Bracket Sequences
 |  |
@@ -432,6 +433,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
