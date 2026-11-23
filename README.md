@@ -22,6 +22,7 @@ MY LEETCODE JOURNEY
 | [0055-jump-game](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -210,6 +211,7 @@ MY LEETCODE JOURNEY
 | ------- |
 | [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -218,6 +220,7 @@ MY LEETCODE JOURNEY
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
