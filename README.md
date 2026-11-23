@@ -132,6 +132,7 @@ MY LEETCODE JOURNEY
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0283-move-zeroes) |
@@ -371,6 +372,7 @@ MY LEETCODE JOURNEY
 | [0023-merge-k-sorted-lists](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
