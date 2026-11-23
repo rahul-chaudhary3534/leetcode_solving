@@ -199,6 +199,7 @@ MY LEETCODE JOURNEY
 | [0045-jump-game-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0152-maximum-product-subarray) |
@@ -314,6 +315,7 @@ MY LEETCODE JOURNEY
 | [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0072-edit-distance) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
