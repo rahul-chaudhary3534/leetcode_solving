@@ -23,6 +23,7 @@ MY LEETCODE JOURNEY
 | [0056-merge-intervals](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -214,6 +215,7 @@ MY LEETCODE JOURNEY
 | [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0068-text-justification) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -311,6 +313,7 @@ MY LEETCODE JOURNEY
 | [0038-count-and-say](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0068-text-justification) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
