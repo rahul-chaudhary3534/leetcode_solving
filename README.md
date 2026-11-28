@@ -71,6 +71,7 @@ MY LEETCODE JOURNEY
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
@@ -317,6 +318,7 @@ MY LEETCODE JOURNEY
 | [0065-valid-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0647-palindromic-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -405,6 +407,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0713-subarray-product-less-than-k) |
 ## Queue
 |  |
