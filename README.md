@@ -397,6 +397,7 @@ MY LEETCODE JOURNEY
 | [0061-rotate-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
