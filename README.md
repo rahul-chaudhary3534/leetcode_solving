@@ -211,6 +211,7 @@ MY LEETCODE JOURNEY
 | [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0152-maximum-product-subarray) |
@@ -357,6 +358,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -369,6 +371,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -384,6 +387,7 @@ MY LEETCODE JOURNEY
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -440,6 +444,7 @@ MY LEETCODE JOURNEY
 | [0039-combination-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 ## Bracket Sequences
 |  |
