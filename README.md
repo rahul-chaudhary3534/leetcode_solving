@@ -118,6 +118,7 @@ MY LEETCODE JOURNEY
 | [0043-multiply-strings](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -171,6 +172,7 @@ MY LEETCODE JOURNEY
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -434,6 +436,7 @@ MY LEETCODE JOURNEY
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 ## Bracket Sequences
 |  |
