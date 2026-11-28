@@ -28,6 +28,7 @@ MY LEETCODE JOURNEY
 | [0075-sort-colors](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0136-single-number) |
@@ -204,6 +205,7 @@ MY LEETCODE JOURNEY
 | [0053-maximum-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0152-maximum-product-subarray) |
@@ -231,6 +233,7 @@ MY LEETCODE JOURNEY
 | [0054-spiral-matrix](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -340,6 +343,7 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -462,4 +466,8 @@ MY LEETCODE JOURNEY
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/rahul-chaudhary3534/leetcode_solving/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
